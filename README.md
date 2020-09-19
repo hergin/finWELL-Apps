@@ -8,10 +8,10 @@ Budgeting API based on budgeting app from finWELL Apps.
 - Parker Carlson
 - Adam GackenHeimer
 ## Client Partner Information
-***Company:***
-placeholder for actual text
-***People:***
-placeholder for actual text
+***Company:***<br>
+placeholder for actual text<br>
+***People:***<br>
+placeholder for actual text<br>
 ## Links
 - [Project description](https://github.com/nmalitz/finWell-Apps/blob/master/ProjectDescription.md)
 - [Team meeting minutes](https://github.com/nmalitz/finWell-Apps/blob/meetingminutes/team)
