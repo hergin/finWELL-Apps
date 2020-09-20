@@ -2,11 +2,11 @@
 ## Summary
 Budgeting API based on budgeting app from finWELL Apps.
 ## Team Members
-- Nathan Malitz
-- Zachary Criswell
-- Alex Thomas
 - Parker Carlson
+- Zachary Criswell
 - Adam GackenHeimer
+- Nathan Malitz
+- Alex Thomas
 ## Client Partner Information
 ***Company:***<br>
 placeholder for actual text<br>
