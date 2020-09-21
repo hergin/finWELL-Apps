@@ -16,7 +16,7 @@ placeholder for actual text<br>
 - [Project description](https://github.com/nmalitz/finWell-Apps/blob/master/ProjectDescription.md)
 - [Team meeting minutes](https://github.com/nmalitz/finWell-Apps/blob/meetingminutes/team)
 - [Mentor meeting minutes](https://github.com/nmalitz/finwell-Apps/blob/meetingminutes/mentor)
-- [Mentor meeting minutes](https://github.com/nmalitz/finWELL-Apps/blob/meetingminutes/clientpartner)
+- [Client partner meeting minutes](https://github.com/nmalitz/finWELL-Apps/blob/meetingminutes/clientpartner)
 ## Code Repositories
 - example 1
 - example 2
