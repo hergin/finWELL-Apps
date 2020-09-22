@@ -1,6 +1,6 @@
 # finWELL-Apps
 ## Summary
-Budgeting API based on budgeting app from finWELL Apps.
+A newly improved version of a budget app from finWell. This app is designed to help you create a budget based on your desires. From saving money for retirement in twenty years or making ends meet today. This app will alert you when you over spend, and give financial advice on how to save/mange money effectively. Visualize your spending habits, and find ways to improve them with finWELL.
 ## Team Members
 - Parker Carlson
 - Zachary Criswell
@@ -9,7 +9,7 @@ Budgeting API based on budgeting app from finWELL Apps.
 - Alex Thomas
 ## Client Partner Information
 ***Company:***<br>
-placeholder for actual text<br>
+finWELL<br>
 ***People:***<br>
 Matt Garrett <br>
 Email: matthew.garrett@trustasc.com<br>
