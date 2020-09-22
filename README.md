@@ -9,7 +9,8 @@ A newly improved version of a budget app from finWell. This app is designed to h
 - Alex Thomas
 ## Client Partner Information
 ***Company:***<br>
-finWELL<br>
+Accutech Systems Corporation<br>
+Website url: https://www.trustasc.com/<br>
 ***People:***<br>
 Matt Garrett <br>
 Email: matthew.garrett@trustasc.com<br>
