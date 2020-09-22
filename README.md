@@ -11,7 +11,10 @@ Budgeting API based on budgeting app from finWELL Apps.
 ***Company:***<br>
 placeholder for actual text<br>
 ***People:***<br>
-placeholder for actual text<br>
+Matt Garrett <br>
+Email: matthew.garrett@trustasc.com<br>
+Pat Spencer<br>
+Email: patrick.spencer@trustasc.com<br>
 ## Links
 - [Project description](https://github.com/nmalitz/finWell-Apps/blob/master/ProjectDescription.md)
 - [Team meeting minutes](https://github.com/nmalitz/finWell-Apps/blob/meetingminutes/team)
