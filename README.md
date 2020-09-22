@@ -22,6 +22,5 @@ Email: patrick.spencer@trustasc.com<br>
 - [Mentor meeting minutes](https://github.com/nmalitz/finwell-Apps/blob/meetingminutes/mentor)
 - [Client partner meeting minutes](https://github.com/nmalitz/finWELL-Apps/blob/meetingminutes/clientpartner)
 ## Code Repositories
-- example 1
-- example 2
-- etc.
+- Placeholder until working repo is able to be added
+
