@@ -4,7 +4,7 @@ A newly improved version of a budget app from finWell. This app is designed to h
 ## Team Members
 - Parker Carlson
 - Zachary Criswell
-- Adam GackenHeimer
+- Adam Gackenheimer
 - Nathan Malitz
 - Alex Thomas
 ## Client Partner Information
