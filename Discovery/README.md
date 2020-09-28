@@ -5,7 +5,7 @@ Discovery documents go here. Explain each folder/file in this readme file.
     - Screenshot from Introductory Meeting with Client Partner.
     - [Link to file](https://github.com/nmalitz/finWELL-Apps/blob/master/Discovery/Client_Intro_Meeting/Discovery_Meeting_Screenshot.png)
 - Client_Intro_Meeting/**Raw_Minutes_9-28-2020.jpg**
-    - Picture of raw minutes from Client Partner Intro Meeting.
+    - Picture of raw minutes from Client Partner Intro Meeting. [Here is a link to the processed minutes](https://github.com/nmalitz/finWELL-Apps/blob/master/MeetingMinutes/ClientPartner/9-28-2020.md)
     - [Link to file](https://github.com/nmalitz/finWELL-Apps/blob/master/Discovery/Client_Intro_Meeting/Raw_Minutes_9-28-2020.jpg)
 ## Folders
 - Client_Intro_Meeting
