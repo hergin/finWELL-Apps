@@ -12,3 +12,6 @@ Discovery documents go here. Explain each folder/file in this readme file.
 - Client_Intro_Meeting
     - For documents/artifacts from Client Partner Introductory Meeting on 9-28-2020.
     - [Link to folder](https://github.com/nmalitz/finWELL-Apps/blob/master/Discovery/Client_Intro_Meeting)
+## Meeting - Participants
+- Introductory Client Partner Meeting
+    - Nathan, Alex, Parker, Zachary, Adam, Matt, Pat
