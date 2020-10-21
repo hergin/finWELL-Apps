@@ -21,6 +21,7 @@ Email: patrick.spencer@trustasc.com<br>
 - [Team meeting minutes](https://github.com/nmalitz/finWell-Apps/blob/meetingminutes/team)
 - [Mentor meeting minutes](https://github.com/nmalitz/finwell-Apps/blob/meetingminutes/mentor)
 - [Client partner meeting minutes](https://github.com/nmalitz/finWELL-Apps/blob/meetingminutes/clientpartner)
+- [Finwell Apps Accutech Jira](https://accutechdev.atlassian.net/jira/software/projects/FA/boards/47)
 ## Code Repositories
 - Placeholder until working repo is able to be added
 
