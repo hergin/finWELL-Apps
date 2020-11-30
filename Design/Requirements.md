@@ -19,10 +19,10 @@
 - FR17 - MED - BR1 - Ordinary users can delete their account.
 - FR18 - HIGH - BR1 - Users have a budget created using the Envelope method.
 - FR19 - LOW - BR1 - Users can look at their transaction history (from the receipts they have input).
-- FR 20 - MED - BR1 - Users will be able to view the amount of money they have saved since they started using the app.
-- FR 21 - MED - BR1 - Users can graph how much they will save over time if they consistently adhere to their budget.
-- FR 22 - HIGH - BR1 - The app can run on both Apple and Android devices.
-- FR 23 - HIGH - BR1, BR2, BR3 - When the user edits their allocation categories the system will notify the user of the benefits of increasing their retirement savings category.
+- FR20 - MED - BR1 - Users will be able to view the amount of money they have saved since they started using the app.
+- FR21 - MED - BR1 - Users can graph how much they will save over time if they consistently adhere to their budget.
+- FR22 - HIGH - BR1 - The app can run on both Apple and Android devices.
+- FR23 - HIGH - BR1, BR2, BR3 - When the user edits their allocation categories the system will notify the user of the benefits of increasing their retirement savings category.
 - FR24 - MED - BR3 - Employee Admins can add money to an incentives fund to pay out to employees as rewards for staying on budget.
 - FR25 - LOW - BR1, BR3 - Users will receive a notification to their device if they have not opened the application within a customizable period of time.
 - FR26 - LOW - BR1 - Users will receive in app “badges” for completing different savings and budgetary milestones.
@@ -31,6 +31,11 @@
 - FR29 - MED - BR1 - The user will input “name of debt”, “amount owed”, “interest rate” into a Debt Free Category, which will return a dollar amount for “Monthly Payment”.
 - FR30 - MED - BR1 - The “Monthly Payment” value returned by the Debt Free Calculator will be able to be applied to the corresponding allocation category within the user’s budget.
 - FR31- MED - BR2 - Employee admins can view usage statistics on how their employees are utilizing the app.
+- FR32 - MED - BR1 - Financial concepts/terms used throughout the app will display a pop-up definition when tapped by the user.
+- FR33 - HIGH - BR 1, 3 - Users should see a visualization of the amount that they have saved over different time categories on the home page
+- FR34 - LOW - BR 1 - The app should encourage employers to enroll employees in and participate in a 401k.
+- FR35 - HIGH - BR 1 - Users should be able to manually update their transaction history.
+
 ## Non-Functional
 - NR1 - HIGH - The app will be usable for adults upto 65 years of age. 
 - NR2 - HIGH - The app and server side language will use C#.
@@ -45,3 +50,6 @@
 - NR12 - HIGH - Jira will be used to track issues.
 - NR13 - HIGH - Documentation will be created using Confluence.
 - NR14 - LOW - Planning will be limited to the following platforms: Slack, Discord, GoogleDocs.
+- NR15 - Implement IoC within project architecture
+- NR16 - Implement Repository Layer within Project Architecture
+
