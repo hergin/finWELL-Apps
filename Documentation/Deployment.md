@@ -75,8 +75,16 @@ For PgAdmin4
 
 1.  Open pgAdmin4
 
-It is not uncommon for pgadmin to load endlessly upon first opening. To fix this issue you must open Registry editor. Withen that you must open the "HKEY_CLASSES_ROOT" folder. Within that folder is a subfolder labeled ".js" click on the folder name and change the "Content Type" to "text/javascript". Then restart pgadmin.
+It is not uncommon for pgAdmin4 to load endlessly upon first opening. To fix this issue you must open Registry editor. Withen that you must open the "HKEY_CLASSES_ROOT" folder. Within that folder is a subfolder labeled ".js" click on the folder name and change the "Content Type" to "text/javascript".
+
+
+The result should look like this:
+
+
 ![](https://github.com/nmalitz/finWELL-Apps/blob/master/Documentation/Resources/deplaoymentpgadmin.PNG)
+
+
+Then close and reopen pgAdmin4.
     
 2.  Select “Add New Server”
     
@@ -104,7 +112,8 @@ Once those 2 things have been completed the program should be functional on your
 
 If everything has gone correctly, running the program in Visual Studio should open a page on swagger. 
 However it can be a common problem that it fails on the first try and works on the next attempt.
-It should appear like this
+
+The result should look like this:
 
 ![](https://lh3.googleusercontent.com/kdrDzWTQqllHxVrWu-fYvYQepfUD-z-Z-3ZX9zb1WVJKt7dR_4hYVoD7XQBSPbwoyuRF-ZOF2iY9Bkmv5tyla1yyws2iPngZOvKwweTpXzdJjykYnBAgdDetEXTk_jlDPl-HTv4D)
 
