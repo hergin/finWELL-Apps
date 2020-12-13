@@ -74,8 +74,9 @@ Install pgAdmin4 version 4.28 using default options.
 For PgAdmin4
 
 1.  Open pgAdmin4
+
 It is not uncommon for pgadmin to load endlessly upon first opening. To fix this issue you must open Registry editor. Withen that you must open the "HKEY_CLASSES_ROOT" folder. Within that folder is a subfolder labeled ".js" click on the folder name and change the "Content Type" to "text/javascript". Then restart pgadmin.
-(https://github.com/nmalitz/finWELL-Apps/blob/master/Documentation/Resources/deplaoymentpgadmin.PNG)
+![](https://github.com/nmalitz/finWELL-Apps/blob/master/Documentation/Resources/deplaoymentpgadmin.PNG)
     
 2.  Select “Add New Server”
     
