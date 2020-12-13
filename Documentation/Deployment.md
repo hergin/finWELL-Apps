@@ -99,7 +99,9 @@ Once those 2 things have been completed the program should be functional on your
 
 ### Final Result
 
-If everything has gone correctly, running the program in Visual Studio should open a page on swagger. It should appear like this
+If everything has gone correctly, running the program in Visual Studio should open a page on swagger. 
+However it can be a common problem that it fails on the first try and works on the next attempt.
+It should appear like this
 
 ![](https://lh3.googleusercontent.com/kdrDzWTQqllHxVrWu-fYvYQepfUD-z-Z-3ZX9zb1WVJKt7dR_4hYVoD7XQBSPbwoyuRF-ZOF2iY9Bkmv5tyla1yyws2iPngZOvKwweTpXzdJjykYnBAgdDetEXTk_jlDPl-HTv4D)
 
