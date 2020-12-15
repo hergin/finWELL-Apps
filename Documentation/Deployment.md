@@ -268,8 +268,16 @@ To do this, navigate to the Android Device Manager and right click on your creat
 
   
 
-Note
+ Note
 
 The following methods can help to speed up your emulated device at the cost of using more of your computer’s resources.
 
-Be warned, if you increase the values too much you can risk your computer running very slowly or freezing altogether. It is best to implement changes incrementally to avoid drastic differences in perfor
+Be warned, if you increase the values too much you can risk your computer running very slowly or freezing altogether. It is best to implement changes incrementally to avoid drastic differences in performance.
+
+  
+
+-   Increase the amount of RAM on the emulated device
+    
+-   Decrease the amount of resolution on the emulated device
+    
+-   Increase the amount of cores on the emulated device the app: all of your budget categories will still be there when you return! 
