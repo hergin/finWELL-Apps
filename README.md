@@ -23,6 +23,6 @@ Email: patrick.spencer@trustasc.com<br>
 - [Client partner meeting minutes](https://github.com/nmalitz/finWELL-Apps/blob/meetingminutes/clientpartner)
 - [Finwell Apps Accutech Jira](https://accutechdev.atlassian.net/jira/software/projects/FA/boards/47)
 ## Code Repositories
-- [Bitbucket Repo](https://bitbucket.org/accutechdev/bsu.finwellapps/commits/tag/v1.0.0)
+- [Bitbucket Repo](https://bitbucket.org/accutechdev/bsu.finwellapps/commits/tag/v2.0.0)
 - [Jira Project Board](https://accutechdev.atlassian.net/jira/software/projects/BSUFA/boards/47)
 
