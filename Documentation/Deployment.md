@@ -110,27 +110,8 @@ Once there navigate to the “Installed” tab and ensure that you have all of t
 
 ![](https://lh4.googleusercontent.com/2yNGTgTPpWFBLRPenXNtKcaQSf9We_xY1eGNq61U6DEyBPF5vPrIXNFz0sgoVzwrf9te36M5UscwX282ECWchpeZ32fFaeKq3PUM99YeMCfvWRNv1Z9WFrh1kxF2EBRTJ97mTiY)![](https://lh6.googleusercontent.com/fxQxNAt5AasBrNFNjJ6p8fNPxAS6gqri2-q2KGLyhyr0AwdGGYCJ73bLJ8PHQf48ZaLcbEmGyiP_VnafRyETfFGNTNZtk45btNusgoNV998Nihj29WolIA0Ew-QrSrMjjtQ_UR4)
 
-9.  Next, install and follow along with the setup of each of these programs. For each of them, use default installation options.
-    
 
-  
-
--   Install PostgreSQL version 13.1 using default options by going [here](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).
-    
--   Install postman by going [here](https://www.postman.com/downloads/).
-    
-
--   Keep in mind, to install and use postman you must first create an account.
-    
--   Moreover, utilizing postman from the web is possible, but we find that using the desktop app is far preferable.
-    
-
--   Install pgAdmin4 version 4.28 by going [here](https://www.pgadmin.org/download/pgadmin-4-windows/).
-    
-
-  
-
-10.  Install your emulated android phone
+9.  Install your emulated android phone
     
 
 1.  First, add the android toolbar to the top of your screen by navigating to View -> Toolbars -> and checking “Android”
