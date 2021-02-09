@@ -1,5 +1,7 @@
 ﻿
-# Tech stack:
+## Development
+
+##Tech stack:
 
 #### The following technologies are utilized in this application. Before development it is recommended that you familiarize yourself with the documentation of some of the technologies, which you can find below:
 
@@ -128,27 +130,8 @@ Once there navigate to the “Installed” tab and ensure that you have all of t
 
 ![](https://lh4.googleusercontent.com/_tNkBHxhdczyTOokTDir2LbJGzGhjk045QX40pTWIfPalxk20qRPYAql9EKNBzjOVuhMjI0_OMeMTI07KKp5EbRsOHJ5G1LJmgEyTA-pI3oFkYoGDXoMuItdSwE8uquSYIdsok4)![](https://lh5.googleusercontent.com/XoohuFZT8l9alnTZnDDNwaTrjKpRgIb25Xs8n2AfjEz7swLN_NTnoGcDp_zr3JbzGqsnNN1ixMtXeXWgM40vmL9dJP_yh0uLTH-yN4Jdk6TDKmv7Wt1JCp4yc_gPdJeRDF2E44Y)
 
-9.  Next, install and follow along with the setup of each of these programs. For each of them, use default installation options.
-    
 
-  
-
--   Install PostgreSQL version 13.1 using default options by going [here](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).
-    
--   Install postman by going [here](https://www.postman.com/downloads/).
-    
-
--   Keep in mind, to install and use postman you must first create an account.
-    
--   Moreover, utilizing postman from the web is possible, but we find that using the desktop app is far preferable.
-    
-
--   Install pgAdmin4 version 4.28 by going [here](https://www.pgadmin.org/download/pgadmin-4-windows/).
-    
-
-  
-
-10.  Install your emulated android phone
+.  Install your emulated android phone
     
 
 1.  First, add the android toolbar to the top of your screen by navigating to View -> Toolbars -> and checking “Android”
@@ -190,20 +173,8 @@ General Tips:
 
 Congrats! You have successfully replicated the development environment and are on your way to continue development on the Finwell Apps project. 😁
 
-  
-
-# Building the Projects
-
-To build the different projects, find the project dropdown at the top of the screen. From here, you can switch between the different projects and build them individually.
-
-![](https://lh4.googleusercontent.com/bq2lqGEUK7NvxhMmHTRjJwYiCKwEMj20BLyJ7-4qPXG04KtIceVZQy8Ri-re_hOE6_daN7NGfTE6qUV609Nr-x1WoPDSqhU_W1zo84r9LRxuVQi4UpwptMHDClpNnvqnEas5_PQ)
-
-## Web API
-
-To build the Web API, select FinwellAPI and hit the play button that says “IIS Express”. From there, you should be taken to the Swagger page that displays the API endpoints.
-
-  
-
+ 
+# Building the Project
 ## Xamarin.forms
 
 IMPORTANT: If you are using a version of Windows that is compatible with Hyper V (Professional, Education, or Enterprise) we strongly recommend enabling it for the best performance when using the emulator.
@@ -218,7 +189,7 @@ Ensure all three boxes are checked. Next, scroll down and find Windows Hyperviso
 
 Alternatively, you can run the following command as an administrator on Windows Powershell
 
-Enable-WindowsOptionalFeature -Online -FeatureName  Microsoft-Hyper-V -All
+Enable-WindowsOptionalFeature -Online -FeatureName  Microsoft-Hyper-V -Allz
 
   
   
@@ -240,6 +211,8 @@ Hit play on the name of the device you created, and the phone should be pulled u
 ## Testing
 
 The tests in our application cover the mathematical calculations used in creating a simple budget and the business logic of the API.
+
+We have in our application tests that cover 
 
 To run the tests, navigate to the top of the screen and hover over the “Test” button. From there Test -> Run All Tests
 
