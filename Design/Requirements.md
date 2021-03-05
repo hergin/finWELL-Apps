@@ -1,47 +1,32 @@
 # Requirements
 ## Functional
-- FR1 - HIGH - BR2, BR3 - Users can create an account with a unique username, password, name, email, and phone number.
-- FR2 - HIGH - BR2 - Users can add details to their account including age, income level, dependencies, expenses, and goals.
-- FR3 - LOW - BR1 - Users can opt for an irregular income if their income is not consistent.
+- FR2 - HIGH - BR2 - Users can income level, dependencies, expenses, and goals to their information.
 - FR4 - MED - BR1 - Users can add details of all their current debts.
 - FR5 - LOW - BR1 - Provide 3rd party and MoneyTree articles links about financial wellness to the users outside of the app.
 - FR6 - MED - BR1, BR3 - User should receive a notification from the application if they exceed any allocation category
 - FR7 - MED - BR1, BR2, BR3 - Show how the money being saved by adhering to a budget can affect the age a user can retire.
 - FR8 - MED - BR1, BR3 - Users can create financial saving goals. 
-- FR9 - LOW - BR2 - Users can enter a faith based mode of the app that will provide daily scripture verses for motivation.
-- FR10 - HIGH - BR1 - The app should store user data in a remote database when connected to the internet, and locally if connecting to the internet is not possible.
 - FR11 - MED - BR1 - Users can change their expenses/dependencies/income whenever they want.
-- FR12 - LOW - BR1 - Users can track their transaction history by adding receipts information manually or by scanning a receipts data.
-- FR13 - LOW - BR1 - Users can provide multiple payment methods (i.e. debit/credit cards, bank information, paypal, etc.l) so that account aggregation is possible.
-- FR14 - LOW - BR1, BR2, BR3 - Users can aggregate their payment methods with their user-account.
-- FR15 - MED - BR3 - Users under Employee Admins are not able to delete their account.
-- FR16 - MED - BR3 - Employee Admins are able to delete their employees’ accounts given the employees approval.
-- FR17 - MED - BR1 - Ordinary users can delete their account.
+- FR12 - LOW - BR1 - Users can track their transaction history.
+- FR17 - MED - BR1 - Users can delete/reset their account.
 - FR18 - HIGH - BR1 - Users have a budget created using the Envelope method.
-- FR19 - LOW - BR1 - Users can look at their transaction history (from the receipts they have input).
 - FR20 - MED - BR1 - Users will be able to view the amount of money they have saved since they started using the app.
 - FR21 - MED - BR1 - Users can graph how much they will save over time if they consistently adhere to their budget.
 - FR22 - HIGH - BR1 - The app can run on both Apple and Android devices.
 - FR23 - HIGH - BR1, BR2, BR3 - When the user edits their allocation categories the system will notify the user of the benefits of increasing their retirement savings category.
-- FR24 - MED - BR3 - Employee Admins can add money to an incentives fund to pay out to employees as rewards for staying on budget.
 - FR25 - LOW - BR1, BR3 - Users will receive a notification to their device if they have not opened the application within a customizable period of time.
 - FR26 - LOW - BR1 - Users will receive in app “badges” for completing different savings and budgetary milestones.
 - FR27 - MED - BR1 - User’s transaction history will be visualized with charts and graphs.
 - FR28 - HIGH - BR1 - User can create allocation categories that specify monthly allowances for said category 
 - FR29 - MED - BR1 - The user will input “name of debt”, “amount owed”, “interest rate” into a Debt Free Category, which will return a dollar amount for “Monthly Payment”.
 - FR30 - MED - BR1 - The “Monthly Payment” value returned by the Debt Free Calculator will be able to be applied to the corresponding allocation category within the user’s budget.
-- FR31- MED - BR2 - Employee admins can view usage statistics on how their employees are utilizing the app.
 - FR32 - MED - BR1 - Financial concepts/terms used throughout the app will display a pop-up definition when tapped by the user.
-- FR33 - HIGH - BR 1, 3 - Users should see a visualization of the amount that they have saved over different time categories on the home page
-- FR34 - LOW - BR 1 - The app should encourage employers to enroll employees in and participate in a 401k.
 - FR35 - HIGH - BR 1 - Users should be able to manually update their transaction history.
 
 ## Non-Functional
 - NR1 - HIGH - The app will be usable for adults upto 65 years of age. 
 - NR2 - HIGH - The app and server side language will use C#.
-- NR3 - HIGH - The remote database will be deployed using database services from a public cloud platform such as AWS or Azure.
 - NR4 - HIGH - The front end of the budgeting app will be composed using Xamarin
-- NR5 - HIGH - The System server will be hosted using a public cloud platform such as AWS or Azure.
 - NR6 - HIGH - The development environment provided by accutech will include (waiting for reply). 
 - NR7 - MED - The app should takes less than 7 seconds to open all of a users account information
 - NR8 - MED - Creating an account should take less than 1 minute
